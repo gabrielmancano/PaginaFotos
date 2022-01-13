@@ -64,9 +64,8 @@ body{
 }
 
 .image:hover{
-    width: 101%;
-    height: 101%;
-}
+        transform: scale(1.05)
+    }
 
 .image-open{
     width: 832px;
