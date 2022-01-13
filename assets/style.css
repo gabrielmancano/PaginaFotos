@@ -232,3 +232,26 @@ body{
         display: none;
     }
 }
+
+
+
+@media screen and (max-width: 415px) {
+
+    body{
+        height: 150vh;
+    }
+
+    .image-open{
+        width: 400px;
+        height: 307px;
+    }
+    
+    .container-table-item{
+        width: 164px;
+        height: 126px;
+    }
+
+    .rodape{
+        display: none;
+    }
+}
