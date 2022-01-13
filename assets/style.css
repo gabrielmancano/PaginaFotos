@@ -63,6 +63,11 @@ body{
     border-radius: 3px;
 }
 
+.image:hover{
+    width: 101%;
+    height: 101%;
+}
+
 .image-open{
     width: 832px;
     height: 640px;
